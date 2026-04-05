@@ -78,8 +78,8 @@ The system combines **computer vision + vector search + vision-language models**
 **Omar Rashdan**
 AI Engineer | Computer Vision & LLMs
 
-* GitHub: [https://github.com/Omar-Rashdan20](GitHub)
-* LinkedIn: [https://www.linkedin.com/in/omar-rashdan-64a475282/](LinkediIn)
+* GitHub: [GitHub](https://github.com/Omar-Rashdan20)
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/omar-rashdan-64a475282/)
 
 ---
 
